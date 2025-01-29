@@ -1,1 +1,0 @@
-ETL банковских транзакций с использованием HDFS, GreenPlum, Airflow
